@@ -1,1 +1,2 @@
-# 08_Ders
+# 08_NPM
+NPM dosyalarının kurulumu
