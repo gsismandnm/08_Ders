@@ -1,1 +1,2 @@
-# 08_Ders
+# 08_NPM
+Npm kurulumu 
